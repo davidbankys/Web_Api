@@ -1,0 +1,12 @@
+/Users/davidbankys/Projects/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.deps.json
+/Users/davidbankys/Projects/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.dll
+/Users/davidbankys/Projects/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.pdb
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.AssemblyReference.cache
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfoInputs.cache
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfo.cs
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.CoreCompileInputs.cache
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.dll
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/refint/CalculatorLogic.dll
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.pdb
+/Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/ref/CalculatorLogic.dll
