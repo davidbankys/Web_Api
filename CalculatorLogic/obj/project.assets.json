@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidbankys/Projects/CalculatorLogic/CalculatorLogic.csproj",
+      "projectUniqueName": "/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/CalculatorLogic.csproj",
       "projectName": "CalculatorLogic",
-      "projectPath": "/Users/davidbankys/Projects/CalculatorLogic/CalculatorLogic.csproj",
+      "projectPath": "/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/CalculatorLogic.csproj",
       "packagesPath": "/Users/davidbankys/.nuget/packages/",
-      "outputPath": "/Users/davidbankys/Projects/CalculatorLogic/obj/",
+      "outputPath": "/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidbankys/.nuget/NuGet/NuGet.Config"

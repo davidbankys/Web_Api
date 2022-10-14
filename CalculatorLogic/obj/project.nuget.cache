@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2v7R17xVraqNx+ncvw2089CYOZMS3MBlBW2wgGlvd7DJKR/ljQbJxV0pJdD9+zDT5E+glrxpE+XlyBDeEDkxg==",
+  "dgSpecHash": "nteH1l8mS1UpYPFnKl+le/9E7M2UkJG6K/nsfHMnMbYfpTpm0+xEd1w3Qw7+2RFzWTPCB/qV4rci97fVXE0VYw==",
   "success": true,
-  "projectFilePath": "/Users/davidbankys/Projects/CalculatorLogic/CalculatorLogic.csproj",
+  "projectFilePath": "/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/CalculatorLogic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
