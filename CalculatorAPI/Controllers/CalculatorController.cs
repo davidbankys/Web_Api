@@ -46,7 +46,8 @@ namespace CalculatorAPI.Controllers
         {
             double result = 0;
 
-            //I am using the try and catch method here to catch any exception error throw from dividung any number by zero
+            //I am using the try and catch method here to catch any
+            //exception error throw from dividung any number by zero
             try
             {
                 //using the  calculator logic class to divide 2 numbers

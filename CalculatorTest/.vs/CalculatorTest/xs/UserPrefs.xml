@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{D1043AF5-7EED-43A3-A053-9F91CC2F5127}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalculatorAPI FirstBuild="True" />
+﻿<Properties StartupConfiguration="{1039C66A-AC09-4DA9-B829-833C36BF091B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculatorAPI PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.CalculatorTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="../CalculatorAPI/Controllers/CalculatorController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest1.cs">
     <Files>
-      <File FileName="../CalculatorAPI/Controllers/CalculatorController.cs" Line="19" Column="38" />
-      <File FileName="UnitTest1.cs" Line="1" Column="1" />
-      <File FileName="../CalculatorLogic/Calculator.cs" Line="1" Column="1" />
+      <File FileName="../CalculatorAPI/Controllers/CalculatorController.cs" Line="50" Column="15" />
+      <File FileName="UnitTest1.cs" Line="12" Column="49" />
+      <File FileName="../CalculatorLogic/Calculator.cs" Line="5" Column="31" />
       <File FileName="../CalculatorAPI/Program.cs" Line="1" Column="1" />
       <File FileName="Usings.cs" Line="1" Column="1" />
     </Files>
@@ -19,9 +19,7 @@
         <State name="__root__">
           <Node name="CalculatorTest" expanded="True">
             <Node name="CalculatorAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CalculatorController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
             </Node>
             <Node name="CalculatorLogic" expanded="True" />
             <Node name="CalculatorTest" expanded="True" />
