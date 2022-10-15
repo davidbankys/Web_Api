@@ -46,7 +46,7 @@ namespace CalculatorAPI.Controllers
         {
             double result = 0;
 
-            //I am using the try and catch method here to catch any
+            //using the try and catch method here to catch any
             //exception error throw from dividung any number by zero
             try
             {
@@ -55,7 +55,7 @@ namespace CalculatorAPI.Controllers
             }
             catch (DivideByZeroException)
             {
-                //using dividebyzero exception to catch specific error and changing status code to 400
+                //using dividebyzero exception to catch error and change the status to code 400
                 Response.StatusCode = 400;
             }
 
