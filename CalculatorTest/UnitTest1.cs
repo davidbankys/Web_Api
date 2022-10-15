@@ -9,8 +9,9 @@ public class UCalculatorTest
     [TestMethod]
     public void Add_Two_Positive_Integer()
     {
-        int result = CalculatorLogic.Calculator.Add(1, 1);
+        int result = (int)CalculatorLogic.Calculator.Add(1, 1);
         Assert.AreEqual(2, result);
+      
     }
 
     [TestMethod]
@@ -101,7 +102,7 @@ public class UCalculatorTest
     }
 
     [TestMethod]
-    public void Subtract_One_Number_And_Variable_To_Get_An_Negative_Number_Since_Variable_Defaults_To_Zero()
+    public void Subtract_Zero_Number_And_Variable_To_Get_A_Negative_Number()
     {
         var result = CalculatorLogic.Calculator.SubstractNumbers(0, 32);
         Assert.AreEqual(-32, result);
