@@ -10,3 +10,15 @@
 /Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/refint/CalculatorLogic.dll
 /Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.pdb
 /Users/davidbankys/Projects/CalculatorLogic/obj/Debug/net6.0/ref/CalculatorLogic.dll
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.deps.json
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.dll
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.pdb
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.AssemblyReference.cache
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfoInputs.cache
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfo.cs
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.CoreCompileInputs.cache
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.dll
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/refint/CalculatorLogic.dll
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.pdb
+/Users/davidbankys/Documents/GitHub/Web_Api/CalculatorLogic/obj/Debug/net6.0/ref/CalculatorLogic.dll

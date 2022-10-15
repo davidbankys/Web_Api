@@ -14,15 +14,15 @@ public class UCalculatorTest
     }
 
     [TestMethod]
-    public void Add_A_Number_And_Variable_To_Get_A_Positive_Number_Since_Variable_Defaults_To_Zero()
+    public void Add_Two_Numbers_To_Get_A_Positive_Number_()
     {
-        var result = CalculatorLogic.Calculator.Add(1, 32);
-        Assert.AreEqual(33, result);
+        var result = CalculatorLogic.Calculator.Add(1, 22);
+        Assert.AreEqual(23, result);
         Assert.IsInstanceOfType(result, typeof(double));
     }
 
     [TestMethod]
-    public void Add_Two_Negative_Whole_Numbers_Correctly_And_Return_A_Double()
+    public void Add_Two_Negative_Whole_Numbers_And_Return_A_Double()
     {
         var result = CalculatorLogic.Calculator.Add(-2, -2);
         Assert.AreEqual(-4, result);
@@ -30,10 +30,10 @@ public class UCalculatorTest
     }
 
     [TestMethod]
-    public void Add_One_Positive_And_Negative_Correctly_And_Return_A_Double()
+    public void Add_One_Positive_And_Negative_Together_And_Return_A_Double()
     {
         var result = CalculatorLogic.Calculator.Add(22, -36);
-        Assert.AreEqual(-14, result);
+        Assert.AreEqual(-14.0, result);
         Assert.IsInstanceOfType(result, typeof(double));
     }
 

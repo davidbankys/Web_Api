@@ -13,29 +13,29 @@ namespace CalculatorAPI.Controllers
     public class CalculatorController : ControllerBase
     {
         [HttpPost]
-        public double Add(double right, double left)
+        public double Add(double left, double right)
         {
-            //using the simple calculator logic class to add 2 numbers
-            double result = CalculatorLogic.Calculator.AddNumbers(right, left);
+            //using the calculator logic class to add 2 numbers
+            double result = CalculatorLogic.Calculator.Add(left, right);
 
             //return added values in 2 decimal points
             return Math.Round(result, 2);
         }
 
         [HttpPost]
-        public double Substract(double num1, double num2)
+        public double Substract(double left, double right)
         {
-            //using the simple calculator logic class to substract 2 numbers
-            double result = CalculatorLogic.Calculator.SubstractNumbers(right, left);
+            //using the calculator logic class to substract 2 numbers
+            double result = CalculatorLogic.Calculator.SubstractNumbers(left, right);
 
             return Math.Round(result, 2);
         }
 
         [HttpPost]
-        public double Multiply(double num1, double num2)
+        public double Multiply(double left, double right)
         {
-            //using the simple calculator logic class to multiply 2 numbers
-            double result = CalculatorLogic.Calculator.MultiplyNumbers(right, left);
+            //using the calculator logic class to multiply 2 numbers
+            double result = CalculatorLogic.Calculator.MultiplyNumbers(left, right);
 
             //return added values in 2 decimal points
             return Math.Round(result, 2);
@@ -46,7 +46,7 @@ namespace CalculatorAPI.Controllers
         {
             double result = 0;
 
-            //I am using the try and catch method here to catch any exception error throw from diving any number by zero
+            //I am using the try and catch method here to catch any exception error throw from dividung any number by zero
             try
             {
                 //using the  calculator logic class to divide 2 numbers
@@ -54,7 +54,7 @@ namespace CalculatorAPI.Controllers
             }
             catch (DivideByZeroException)
             {
-                //using dividebyzeo exception to catch specific error and changing status code to 400
+                //using dividebyzero exception to catch specific error and changing status code to 400
                 Response.StatusCode = 400;
             }
 

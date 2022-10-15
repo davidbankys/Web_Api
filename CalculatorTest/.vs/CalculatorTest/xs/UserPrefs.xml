@@ -6,19 +6,23 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="../CalculatorAPI/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CalculatorAPI/Controllers/CalculatorController.cs">
     <Files>
-      <File FileName="UnitTest1.cs" Line="36" Column="27" />
-      <File FileName="Usings.cs" Line="1" Column="1" />
+      <File FileName="../CalculatorAPI/Controllers/CalculatorController.cs" Line="19" Column="38" />
+      <File FileName="UnitTest1.cs" Line="1" Column="1" />
       <File FileName="../CalculatorLogic/Calculator.cs" Line="1" Column="1" />
-      <File FileName="../CalculatorAPI/Program.cs" Line="27" Column="1" />
-      <File FileName="../CalculatorAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="../CalculatorAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="Usings.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalculatorTest" expanded="True">
-            <Node name="CalculatorAPI" expanded="True" />
+            <Node name="CalculatorAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CalculatorController.cs" selected="True" />
+              </Node>
+            </Node>
             <Node name="CalculatorLogic" expanded="True" />
             <Node name="CalculatorTest" expanded="True" />
           </Node>
